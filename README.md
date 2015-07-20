@@ -11,7 +11,7 @@ CFPB's values - Lead, Serve, Innovate - are strong influences on our Agile pract
 ### __Individuals and interactions over processes and tools__
 * Innovation starts with people and their needs - both consumers and our team members. We serve by leading (and vice-versa).
 * By valuing individuals, we can both serve and lead those individuals more effectively.
-* We should not justify the use any process or tool simply because "we've always done it that way."
+* We should not justify the use of any process or tool simply because "we've always done it that way."
 
 ### __Working software over comprehensive documentation__
 * In order to best serve the public and our coworkers, we must produce working software and iterate on that software.
