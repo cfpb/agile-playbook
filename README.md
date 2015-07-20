@@ -6,7 +6,7 @@ Welcome to the [CFPB](http://cfpb.github.io/) Design & Development Agile Playboo
 
 ## CFPB Values and Agile Values
 
-CFPB's values - Lead, Serve, Innovate - are strong influences on our Agile practices. Our view of the Agile values are integrated with the CFPB's values.
+CFPB's values - Lead, Serve, Innovate - are strong influences on our Agile practices. Our own Agile values, as written in this document, represent an integration of the CFPB's values with the values of the [Agile Manifesto](http://agilemanifesto.org/).
 
 ### __Individuals and interactions over processes and tools__
 * Innovation starts with people and their needs - both consumers and our team members. We serve by leading (and vice-versa).
